@@ -1,0 +1,1052 @@
+ 
+D:/dimple paper again/experiments/2 Features\EightByEightZone1.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.01}
+0.8922330097087379
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.8398058252427184
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8398058252427184
+poly
+Tuned k:{'C': 0.1, 'gamma': 0.1}
+0.8699029126213592
+D:/dimple paper again/experiments/2 Features\EightByEightZone10.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.9328759638151902
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.92188088154939
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.9240847550239815
+poly
+Tuned k:{'C': 0.1, 'gamma': 0.1}
+0.9053852225122941
+D:/dimple paper again/experiments/2 Features\EightByEightZone11.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.9328759638151902
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.92188088154939
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.9240847550239815
+poly
+Tuned k:{'C': 0.1, 'gamma': 0.1}
+0.9053852225122941
+D:/dimple paper again/experiments/2 Features\EightByEightZone12.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.01}
+0.9197073644587457
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8954951126221843
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.8932669540404345
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.9053791512355047
+D:/dimple paper again/experiments/2 Features\EightByEightZone2.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.8954768987918158
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.8448606641976808
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.8459656365733714
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8712950033392023
+D:/dimple paper again/experiments/2 Features\EightByEightZone3.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.9075830247100967
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.8592010199745006
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8592010199745006
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8624612956104668
+D:/dimple paper again/experiments/2 Features\EightByEightZone4.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.01}
+0.9262704146682047
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.902064234108433
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.9053730799587154
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.9119786291057009
+D:/dimple paper again/experiments/2 Features\EightByEightZone5.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.9338129496402878
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.8863309352517985
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8863309352517985
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.9244604316546763
+D:/dimple paper again/experiments/2 Features\EightByEightZone6.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.8767834375569181
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.8459595652965819
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8459595652965819
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8558618177402707
+D:/dimple paper again/experiments/2 Features\EightByEightZone7.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.01}
+0.8812215408900492
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.8614048934490922
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.8669115414971769
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8647076680225851
+D:/dimple paper again/experiments/2 Features\EightByEightZone8.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.01}
+0.8210348583877994
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.79739651416122
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.79739651416122
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8121350762527234
+D:/dimple paper again/experiments/2 Features\EightByEightZone9.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.9328759638151902
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.92188088154939
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.9240847550239815
+poly
+Tuned k:{'C': 0.1, 'gamma': 0.1}
+0.9053852225122941
+D:/dimple paper again/experiments/2 Features\HP1.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.5640776699029126
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.46213592233009704
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.46310679611650485
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.5223300970873785
+D:/dimple paper again/experiments/2 Features\HP10.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7909416550300528
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.6402282800072855
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.7315281403679194
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7502276728796067
+D:/dimple paper again/experiments/2 Features\HP11.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7909416550300528
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.6402282800072855
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.7315281403679194
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7502276728796067
+D:/dimple paper again/experiments/2 Features\HP12.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.7843300346062778
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.5973832797037216
+linear
+Tuned k:{'C': 100, 'gamma': 1}
+0.7348309149414123
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.754683990043106
+D:/dimple paper again/experiments/2 Features\HP2.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.01}
+0.5467670451095866
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.5049602331370286
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.5060591342359297
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.49286017849553765
+D:/dimple paper again/experiments/2 Features\HP3.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.5434217715985672
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.47082144374962054
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.47082144374962054
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.479667294031935
+D:/dimple paper again/experiments/2 Features\HP4.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.7964908020156638
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.6535000910691517
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.7689575617752413
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.783237204784166
+D:/dimple paper again/experiments/2 Features\HP5.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6453237410071943
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.5100719424460431
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.5115107913669065
+poly
+Tuned k:{'C': 0.1, 'gamma': 0.1}
+0.5820143884892086
+D:/dimple paper again/experiments/2 Features\HP6.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.5951429785683929
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.5213405379151236
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.5335195191548783
+poly
+Tuned k:{'C': 0.1, 'gamma': 0.1}
+0.5335438042620363
+D:/dimple paper again/experiments/2 Features\HP7.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.01}
+0.5698682532936676
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.4862728431789206
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.4873717442778217
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.4895877603059923
+D:/dimple paper again/experiments/2 Features\HP8.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.5369825708061001
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.4644553376906318
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.491078431372549
+poly
+Tuned k:{'C': 0.1, 'gamma': 0.1}
+0.4733769063180828
+D:/dimple paper again/experiments/2 Features\HP9.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7909416550300528
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.6402282800072855
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.7315281403679194
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7502276728796067
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures1.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8980582524271845
+sigmoid
+Tuned k:{'C': 1, 'gamma': 0.001}
+0.8087378640776699
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8864077669902912
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8689320388349515
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures10.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.9119604152753323
+sigmoid
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.826142917855625
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.9174488494930484
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8778519822718718
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures11.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.9119604152753323
+sigmoid
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.826142917855625
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.9174488494930484
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8778519822718718
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures12.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.9053912937890839
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.841570032177767
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8954951126221843
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8889017060287777
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures2.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.7887984943233561
+sigmoid
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8613988221723028
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8779066237629773
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.2057070001821383
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures3.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8855928601784955
+sigmoid
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8361058830672089
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8789933823082994
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8449031631352074
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures4.csv
+rbf
+Tuned k:{'C': 1, 'gamma': 0.001}
+0.9152510472952462
+sigmoid
+Tuned k:{'C': 1, 'gamma': 0.001}
+0.8426628619998786
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.9097626130775304
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8888470645376723
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures5.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.9345323741007194
+sigmoid
+Tuned k:{'C': 1, 'gamma': 0.001}
+0.8510791366906476
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.923021582733813
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.9165467625899281
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures6.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8778884099326089
+sigmoid
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8019428085726428
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.874561350251958
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8272600327848947
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures7.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8768259364944448
+sigmoid
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8217898123975471
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8834254143646408
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8570153603302775
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures8.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8225054466230937
+sigmoid
+Tuned k:{'C': 1, 'gamma': 0.001}
+0.7337799564270152
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8313616557734204
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.7914596949891068
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures9.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.9119604152753323
+sigmoid
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.826142917855625
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.9174488494930484
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8778519822718718
+D:/dimple paper again/experiments/2 Features\TenByTenZone1.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.1}
+0.8524271844660193
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.7873786407766991
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.7873786407766991
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8194174757281554
+D:/dimple paper again/experiments/2 Features\TenByTenZone10.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.9218505251654424
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8723514055005767
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.8844575314188574
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8822233015603181
+D:/dimple paper again/experiments/2 Features\TenByTenZone11.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.9218505251654424
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8723514055005767
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.8844575314188574
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8822233015603181
+D:/dimple paper again/experiments/2 Features\TenByTenZone12.csv
+rbf
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.9031934915912816
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8822718717746343
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.8811547568453646
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.8866674761702387
+D:/dimple paper again/experiments/2 Features\TenByTenZone2.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.1}
+0.892186266771902
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8195859389229556
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.8250743731406714
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8580596199380729
+D:/dimple paper again/experiments/2 Features\TenByTenZone3.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.8757209641187542
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.7899338230829944
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.7954404711310789
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.841582174731346
+D:/dimple paper again/experiments/2 Features\TenByTenZone4.csv
+rbf
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.9174913484305749
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8735170906441624
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.8834011292574828
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8954586849614474
+D:/dimple paper again/experiments/2 Features\TenByTenZone5.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.1}
+0.9071942446043165
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.820863309352518
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.8237410071942446
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8856115107913668
+D:/dimple paper again/experiments/2 Features\TenByTenZone6.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.8646894541922165
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8217715985671786
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.8206726974682775
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8327606095561897
+D:/dimple paper again/experiments/2 Features\TenByTenZone7.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8812154696132597
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8570092890534878
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.863608766923684
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.8449153056887864
+D:/dimple paper again/experiments/2 Features\TenByTenZone8.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7900217864923749
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.7322875816993464
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.7322766884531591
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.770718954248366
+D:/dimple paper again/experiments/2 Features\TenByTenZone9.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.9218505251654424
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8723514055005767
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.8844575314188574
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8822233015603181
+D:/dimple paper again/experiments/2 Features\VP1.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.5815533980582523
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.4106796116504855
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.42621359223300975
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.5019417475728156
+D:/dimple paper again/experiments/2 Features\VP10.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6831279218019549
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.44326391840204
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.49389836682654364
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.6072005342723574
+D:/dimple paper again/experiments/2 Features\VP11.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6831279218019549
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.44326391840204
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.49389836682654364
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.6072005342723574
+D:/dimple paper again/experiments/2 Features\VP12.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.6875417400279279
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.47521097686843544
+linear
+Tuned k:{'C': 100, 'gamma': 1}
+0.6346973468520429
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6479266589763827
+D:/dimple paper again/experiments/2 Features\VP2.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.5237265496934005
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.38505858782101876
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.38505858782101876
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.4389411693279097
+D:/dimple paper again/experiments/2 Features\VP3.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6303685265011232
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.44776880577985556
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.44886770687875666
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.5533604517029932
+D:/dimple paper again/experiments/2 Features\VP4.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.7216258879242305
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.48624855807176254
+linear
+Tuned k:{'C': 100, 'gamma': 1}
+0.6116204237751198
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6677433064173396
+D:/dimple paper again/experiments/2 Features\VP5.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7633093525179856
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.48057553956834537
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.5381294964028777
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6848920863309352
+D:/dimple paper again/experiments/2 Features\VP6.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6500819622366584
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.431212433974865
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.5159067451885131
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.5808086940683626
+D:/dimple paper again/experiments/2 Features\VP7.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.6622730860299921
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.4554368283650051
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.5038309756541801
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.5874688847064536
+D:/dimple paper again/experiments/2 Features\VP8.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.4703485838779956
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.36535947712418293
+linear
+Tuned k:{'C': 100, 'gamma': 1}
+0.3949891067538126
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.41562091503267967
+D:/dimple paper again/experiments/2 Features\VP9.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6831279218019549
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.44326391840204
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.49389836682654364
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.6072005342723574
+
+Process finished with exit code 0
+===============================================================
+C:\Users\kumar\PyCharmMiscProject\.venv\Scripts\python.exe C:\Users\kumar\PyCharmMiscProject\SVMfeatureanalysis.py 
+D:/dimple paper again/experiments/2 Features\EightByEightZone13.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.01}
+0.8020035213405379
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.7293910509380124
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.7414911055795035
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.7744702811001154
+D:/dimple paper again/experiments/2 Features\EightByEightZone14.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.01}
+0.8900006071276788
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8723878331613137
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.8723999757148928
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8723635480541558
+D:/dimple paper again/experiments/2 Features\EightByEightZone15.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.8195920101997449
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.7513751441928237
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.7513751441928237
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8008924776880578
+D:/dimple paper again/experiments/2 Features\HP13.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6776819865217656
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.5930483880760123
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.6095136907291604
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.6226640762552365
+D:/dimple paper again/experiments/2 Features\HP14.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.716167810090462
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.5698500394632992
+linear
+Tuned k:{'C': 10, 'gamma': 1}
+0.6996842936069455
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.6809604759881003
+D:/dimple paper again/experiments/2 Features\HP15.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7271689636330521
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.6105943779976929
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.6271143221419464
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.694165503005282
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures13.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.7777912695039766
+sigmoid
+Tuned k:{'C': 1, 'gamma': 0.001}
+0.6127739663651266
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.7227915730678162
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.7524801165685144
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures14.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8657883552911179
+sigmoid
+Tuned k:{'C': 1, 'gamma': 0.001}
+0.7844211037581202
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8856050027320744
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8514844271750348
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures15.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.8151660494201931
+sigmoid
+Tuned k:{'C': 1, 'gamma': 0.001}
+0.7040313277882337
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.7909537975836318
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.7920709125129015
+D:/dimple paper again/experiments/2 Features\TenByTenZone13.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7766680832979175
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.6809908323720479
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.6919798433610589
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.7282678647319532
+D:/dimple paper again/experiments/2 Features\TenByTenZone14.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.8723939044381034
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8537004432032056
+linear
+Tuned k:{'C': 100, 'gamma': 1}
+0.8558800315706392
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8404893449092345
+D:/dimple paper again/experiments/2 Features\TenByTenZone15.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7953554732560258
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.7084997875053125
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.7095986886042136
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.7579867646165989
+D:/dimple paper again/experiments/2 Features\VP13.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.4081233683443628
+sigmoid
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.2650780159067452
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.2596199380729768
+poly
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.35974743488555644
+D:/dimple paper again/experiments/2 Features\VP14.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6732620970190031
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.45874567421528745
+linear
+Tuned k:{'C': 100, 'gamma': 1}
+0.6061744884949306
+poly
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.6523586910327241
+D:/dimple paper again/experiments/2 Features\VP15.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.3894663347702022
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.2541497176856293
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.2541436464088398
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.32786108918705603
+
+Process finished with exit code 0
+
+C:\Users\kumar\PyCharmMiscProject\.venv\Scripts\python.exe C:\Users\kumar\PyCharmMiscProject\SVMfeatureanalysis.py 
+D:/dimple paper again/experiments/2 Features\EightByEightZone16.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.9185659644223181
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.900965333009532
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.9053609374051363
+poly
+Tuned k:{'C': 0.1, 'gamma': 0.1}
+0.907564810879728
+D:/dimple paper again/experiments/2 Features\HP16.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.7623702264586243
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.6556311092222694
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.7007831947058466
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.7095501183898973
+D:/dimple paper again/experiments/2 Features\RawPixelFeatures16.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.001}
+0.9108797280068
+sigmoid
+Tuned k:{'C': 1, 'gamma': 0.001}
+0.8547568453645802
+linear
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.9130593163742334
+poly
+Tuned k:{'C': 0.1, 'gamma': 1}
+0.8944083540768624
+D:/dimple paper again/experiments/2 Features\TenByTenZone16.csv
+rbf
+Tuned k:{'C': 10, 'gamma': 0.1}
+0.9108554428996417
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.8723453342237872
+linear
+Tuned k:{'C': 100, 'gamma': 1}
+0.8767409386193916
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.8965454435067695
+D:/dimple paper again/experiments/2 Features\VP16.csv
+rbf
+Tuned k:{'C': 100, 'gamma': 0.01}
+0.6414364640883978
+sigmoid
+Tuned k:{'C': 100, 'gamma': 0.001}
+0.43897152571185727
+linear
+Tuned k:{'C': 1, 'gamma': 1}
+0.4906259486369984
+poly
+Tuned k:{'C': 1, 'gamma': 0.1}
+0.599581081901524
+
+Process finished with exit code 0
+
